@@ -1,2 +1,4 @@
 # Repositori_01
  curso de HTML6 e CSS3
+
+ ESTOU APRENDENDO AINDA É BEM INICIAL.
